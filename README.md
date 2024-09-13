@@ -1,1 +1,1 @@
-# Alphazero
+# Pytorch-alphazero
